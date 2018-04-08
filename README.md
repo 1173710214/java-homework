@@ -1,2 +1,3 @@
 # java-homework
-这是我的大一的java作业,请随便看看,麻烦fork一下.
+这是我的大一的java作业,请随便fork.
+但是更希望人pull一下......
